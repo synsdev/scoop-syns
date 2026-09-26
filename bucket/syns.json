@@ -1,12 +1,12 @@
 {
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "Command-line client for the Syns coordinated multi-agent development platform.",
   "homepage": "https://github.com/synsdev/syns-cli",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/synsdev/syns-cli/releases/download/v0.3.3/syns-x86_64-pc-windows-msvc.zip",
-      "hash": "6f58be8d1c9d82db16bba4f4c97d003b3b5f551163cce6249948a38daa243058"
+      "url": "https://github.com/synsdev/syns-cli/releases/download/v0.3.4/syns-x86_64-pc-windows-msvc.zip",
+      "hash": "1360449f65972da20e745ad7d2977bbcca24a7a1b724ce59170e12ba4da5dcf7"
     }
   },
   "bin": "syns.exe",
